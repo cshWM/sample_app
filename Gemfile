@@ -44,4 +44,5 @@ end
 
 group :test do
  gem 'rspec'
+  gem 'capybara', '2.2.1'
 end
